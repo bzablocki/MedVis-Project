@@ -2,7 +2,7 @@
 import vtk
 import numpy as np
 from vtk.util.numpy_support import vtk_to_numpy
-
+#ginny
 
 def Panoramix():
   selectedPlane1 = [0,0,0,0]
