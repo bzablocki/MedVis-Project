@@ -1,0 +1,29 @@
+// MDL v1 utf8
+mevislabVersion = 3.1
+network  {
+  watchlist = ""
+}
+module Panoramix {
+  internal  {
+    frame = "-39 157 96 56"
+    moduleGroupName = ""
+    localMacro = 1
+    windows  {
+      window _default {
+        geometry = "550 334 500 434"
+        sizeHint = "318 77"
+        wasOpen = no
+      }
+      window _scriptingconsole {
+        geometry = "667 320 600 500"
+        sizeHint = "318 243"
+        wasOpen = no
+      }
+    }
+  }
+  fields  {
+    instanceName = Panoramix
+  }
+}
+connections = ""
+networkModel = ""

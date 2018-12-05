@@ -1,0 +1,12 @@
+//! Use the Commands Section to specify scripting resources
+Commands {
+  //! One can use several source tags to specify py files
+  //! which should be included into the Module scripting context.
+  source = $(LOCAL)/Panoramix.py
+}
+Window Viewer {
+  Button {
+    title   = "Panoramix"
+    command = Panoramix
+  }
+}

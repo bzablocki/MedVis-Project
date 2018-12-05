@@ -1,0 +1,7 @@
+// MDL v1 utf8
+mevislabVersion = 3.1
+network  {
+  watchlist = ""
+}
+connections = ""
+networkModel = ""
